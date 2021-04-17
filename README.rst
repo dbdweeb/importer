@@ -10,7 +10,7 @@ importer
    :target: https://github.com/dbdweeb/importer/actions
    :alt: GitHub Actions
 
-Data Loader for Data Scientists
+Data Loader for Data Scientists and engineers
 
 Description
 -----------
