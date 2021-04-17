@@ -1,12 +1,12 @@
 [tool.poetry]
-name = "makenew-pypackage"
-version = "3.0.5"
-description = "Package skeleton for a Python module."
-authors = ["Evan Sosenko <razorx@evansosenko.com>"]
+name = "importer"
+version = "0.0.0"
+description = "Data Loader for Data Scientists and Engineers"
+authors = ["Steve Orr <skorr.borg@pm.me>"]
 license = "MIT"
 readme = "README.rst"
-homepage = "https://github.com/makenew/pypackage"
-repository = "https://github.com/makenew/pypackage"
+homepage = "https://github.com/steve-orr/importer"
+repository = "https://github.com/steve-orr/importer"
 include = ['poetry.lock']
 
 [tool.poetry.dependencies]
