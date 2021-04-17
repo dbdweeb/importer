@@ -6,11 +6,11 @@ importer
 .. |PyPI| image:: https://img.shields.io/pypi/v/importer.svg
    :target: https://pypi.python.org/pypi/importer
    :alt: PyPI
-.. |GitHub Actions| image:: https://github.com/steve-orr/importer/workflows/main/badge.svg
-   :target: https://github.com/steve-orr/importer/actions
+.. |GitHub Actions| image:: https://github.com/dbdweeb/importer/workflows/main/badge.svg
+   :target: https://github.com/dbdweeb/importer/actions
    :alt: GitHub Actions
 
-Data Loader for Data Scientists, Engineers and other humans
+Data Loader for Data Scientists
 
 Description
 -----------
@@ -42,7 +42,7 @@ Quickstart
 
 ::
 
-    $ git clone https://github.com/steve-orr/importer.git
+    $ git clone https://github.com/dbdweeb/importer.git
     $ cd pypackage
     $ poetry install
 
@@ -62,9 +62,8 @@ Clone the project with
 
 ::
 
-    $ git clone https://github.com/steve-orr/importer.git
+    $ git clone https://github.com/dbdweeb/importer.git
 
-.. _source code: https://github.com/steve-orr/importer
 
 Requirements
 ~~~~~~~~~~~~
@@ -113,7 +112,7 @@ Push the created git tag which will trigger a GitHub action.
 Publishing may be triggered using on the web
 using a `workflow_dispatch on GitHub Actions`_.
 
-.. _workflow_dispatch on GitHub Actions: https://github.com/steve-orr/importer/actions?query=workflow%3Aversion
+.. _workflow_dispatch on GitHub Actions: https://github.com/dbdweeb/importer/actions?query=workflow%3Aversion
 
 GitHub Actions
 --------------
@@ -150,7 +149,7 @@ Please submit and comment on bug reports and feature requests.
 
 To submit a patch:
 
-1. Fork it (https://github.com/steve-orr/importer/fork).
+1. Fork it (https://github.com/dbdweeb/importer/fork).
 2. Create your feature branch (`git checkout -b my-new-feature`).
 3. Make changes.
 4. Commit your changes (`git commit -am 'Add some feature'`).

@@ -1,12 +1,12 @@
 [tool.poetry]
 name = "importer"
 version = "0.0.0"
-description = "Data Loader for Data Scientists and Engineers"
-authors = ["Steve Orr <skorr.borg@pm.me>"]
+description = "Data Loader for Data Scientists"
+authors = ["Steve Orr <skorrdude@protonmail.com>"]
 license = "MIT"
 readme = "README.rst"
-homepage = "https://github.com/steve-orr/importer"
-repository = "https://github.com/steve-orr/importer"
+homepage = "https://github.com/dbdweeb/importer"
+repository = "https://github.com/dbdweeb/importer"
 include = ['poetry.lock']
 
 [tool.poetry.dependencies]

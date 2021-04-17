@@ -1,3 +1,3 @@
 """
-Data Loader for Data Scientists and Engineers
+Data Loader for Data Scientists
 """
