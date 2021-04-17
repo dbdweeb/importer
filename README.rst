@@ -10,7 +10,7 @@ importer
    :target: https://github.com/steve-orr/importer/actions
    :alt: GitHub Actions
 
-Data Loader for Data Scientists and Engineers
+Data Loader for Data Scientists, Engineers and other humans
 
 Description
 -----------
